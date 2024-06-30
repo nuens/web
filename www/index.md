@@ -1,1 +1,1 @@
-[zwei](www/article1.md)
+[zwei](./www/article1.md)
