@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "By <br />",
+    "additionalFooterText": "By Tester",
     "anchorCharacter": "&para;",
     "title": "My Shiny New MDwiki"
 }
