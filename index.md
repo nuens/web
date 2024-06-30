@@ -1,2 +1,2 @@
 Erste Seite
-[weiter](web/www/index.md)
+[weiter](/www/index.md)
