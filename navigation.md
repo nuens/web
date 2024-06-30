@@ -1,4 +1,4 @@
 # Test-Wiki
 [Home](index.md)
-[Github](./www/index.md)
-[Geocaching](./gc/index.md)
+[About](./www/index.md)
+[License](./gc/index.md)
