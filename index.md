@@ -4,7 +4,7 @@ Hauptseite
 Section 1
 ---------
 
-Attention: This text is important.
+attention: This text is important.
 
 [...]
 
